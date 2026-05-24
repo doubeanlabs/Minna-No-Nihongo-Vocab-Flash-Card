@@ -11,7 +11,6 @@ A static Japanese vocabulary flashcard app that can be hosted on GitHub Pages.
 - Mastered checkboxes
 - All / Mastered / Unmastered filters
 - Size slider for card and font size
-- CSV upload for local testing/import
 - Full save export/import
 - Reset progress
 - Chapter quizzes with 4-choice questions
@@ -28,7 +27,7 @@ Because this is a GitHub Pages app, the public vocabulary is updated by changing
 5. Wait a short moment for GitHub Pages to publish.
 6. Open the app URL again to see the latest vocabulary.
 
-The in-app CSV upload updates only the current browser. It is useful for testing before you update the file in GitHub.
+The app does not include an in-app CSV upload. Vocabulary updates are made by replacing the CSV source file in GitHub.
 
 ## CSV format
 

@@ -9,7 +9,6 @@ const els = {
   chapterTitle: document.querySelector("#chapterTitle"),
   chapterStats: document.querySelector("#chapterStats"),
   cardGrid: document.querySelector("#cardGrid"),
-  csvInput: document.querySelector("#csvInput"),
   stateInput: document.querySelector("#stateInput"),
   exportButton: document.querySelector("#exportButton"),
   resetProgressButton: document.querySelector("#resetProgressButton"),
@@ -84,7 +83,6 @@ function bindEvents() {
     saveState();
   });
 
-  els.csvInput.addEventListener("change", handleCsvUpload);
   els.stateInput.addEventListener("change", handleStateImport);
   els.exportButton.addEventListener("click", exportState);
   els.resetProgressButton.addEventListener("click", resetProgress);
@@ -386,25 +384,10 @@ function chapterLabel(chapter) {
   return text.toLowerCase().startsWith("chapter") ? text : `Chapter ${text}`;
 }
 
-async function handleCsvUpload(event) {
-  const file = event.target.files[0];
-  event.target.value = "";
-  if (!file) return;
-  const text = await file.text();
-  const result = parseVocabularyCsv(text);
-  pendingImport = {
-    type: "csv",
-    words: result.words,
-    warnings: result.warnings,
-    sourceName: file.name,
-  };
-  showImportReview();
-}
-
 function showImportReview() {
   const validCount = pendingImport.words.length;
   const warningCount = pendingImport.warnings.length;
-  els.dialogTitle.textContent = pendingImport.type === "csv" ? "CSV import review" : "Save import review";
+  els.dialogTitle.textContent = "Save import review";
   els.dialogSummary.textContent = `${pendingImport.sourceName}: ${validCount} valid row${validCount === 1 ? "" : "s"}, ${warningCount} warning${warningCount === 1 ? "" : "s"}.`;
   els.dialogWarnings.innerHTML = "";
   if (!warningCount) {
@@ -439,11 +422,7 @@ function formatImportWarning(warning) {
 
 function confirmPendingImport() {
   if (!pendingImport) return;
-  if (pendingImport.type === "state") {
-    state = pendingImport.nextState;
-  } else {
-    state.words = mergeWords(state.words, pendingImport.words).words;
-  }
+  state = pendingImport.nextState;
   if (!state.settings.selectedChapter || !getChapters().includes(state.settings.selectedChapter)) {
     state.settings.selectedChapter = getChapters()[0] || "";
   }
@@ -511,7 +490,7 @@ function resetProgress() {
 }
 
 async function resetVocabulary() {
-  const ok = window.confirm("Reset vocabulary on this device to the built-in GitHub list? This removes words added through Upload CSV, but keeps progress for matching built-in words.");
+  const ok = window.confirm("Reset vocabulary on this device to the built-in GitHub list? This removes older local vocabulary changes, but keeps progress for matching built-in words.");
   if (!ok) return;
 
   try {
