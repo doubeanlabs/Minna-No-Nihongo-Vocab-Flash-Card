@@ -161,7 +161,7 @@ function parseVocabularyCsv(text, existingWords = state.words) {
   const seen = new Map();
 
   if (!rows.length) {
-    return { words, warnings: [{ row: 1, message: "The CSV file is empty." }] };
+    return { words, warnings: [{ type: "file", message: "The CSV file is empty." }] };
   }
 
   const headers = rows[0].map((header) => header.trim().toLowerCase());
@@ -174,14 +174,13 @@ function parseVocabularyCsv(text, existingWords = state.words) {
 
   for (const required of ["chapter", "hiragana", "english"]) {
     if (index[required] === -1) {
-      warnings.push({ row: 1, message: `Missing required column: ${required}.` });
+      warnings.push({ type: "file", message: `Missing required column: ${required}.` });
     }
   }
 
   if (warnings.length) return { words, warnings };
 
-  rows.slice(1).forEach((row, offset) => {
-    const rowNumber = offset + 2;
+  rows.slice(1).forEach((row) => {
     const word = {
       chapter: valueAt(row, index.chapter),
       hiragana: valueAt(row, index.hiragana),
@@ -194,7 +193,12 @@ function parseVocabularyCsv(text, existingWords = state.words) {
     if (!word.hiragana) missing.push("hiragana");
     if (!word.english) missing.push("english");
     if (missing.length) {
-      warnings.push({ row: rowNumber, message: `Missing ${missing.join(", ")}.` });
+      warnings.push({
+        type: "word",
+        chapter: word.chapter,
+        hiragana: word.hiragana,
+        message: `Missing ${missing.join(", ")}.`,
+      });
       return;
     }
 
@@ -202,7 +206,9 @@ function parseVocabularyCsv(text, existingWords = state.words) {
     const duplicate = seen.get(key) || existingMap.get(key);
     if (duplicate && (duplicate.kanji !== word.kanji || duplicate.english !== word.english)) {
       warnings.push({
-        row: rowNumber,
+        type: "word",
+        chapter: word.chapter,
+        hiragana: word.hiragana,
         message: `Duplicate ${word.chapter} + ${word.hiragana} has different kanji or English meaning.`,
       });
     }
@@ -345,9 +351,8 @@ function createCard(word) {
         <div class="meaning"></div>
       </div>
     </div>
-    <label class="card-checkbox">
+    <label class="card-checkbox" aria-label="Mark as mastered">
       <input type="checkbox" ${state.progress[key] ? "checked" : ""} />
-      Mastered
     </label>
   `;
   card.querySelector(".kana").textContent = word.hiragana;
@@ -409,7 +414,7 @@ function showImportReview() {
     for (const warning of pendingImport.warnings.slice(0, 80)) {
       const item = document.createElement("div");
       item.className = "warning-item";
-      item.textContent = `Row ${warning.row}: ${warning.message}`;
+      item.textContent = formatImportWarning(warning);
       els.dialogWarnings.appendChild(item);
     }
     if (pendingImport.warnings.length > 80) {
@@ -421,6 +426,13 @@ function showImportReview() {
   }
   els.confirmImportButton.disabled = !validCount;
   els.importDialog.showModal();
+}
+
+function formatImportWarning(warning) {
+  if (warning.type === "file") return `File issue: ${warning.message}`;
+  const chapter = warning.chapter || "unknown";
+  const word = warning.hiragana || "unknown";
+  return `Chapter ${chapter}, word ${word}: ${warning.message}`;
 }
 
 function confirmPendingImport() {
