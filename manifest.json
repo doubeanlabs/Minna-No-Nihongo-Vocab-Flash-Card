@@ -1,0 +1,16 @@
+{
+  "name": "Japanese Vocabulary Cards",
+  "short_name": "Vocab Cards",
+  "description": "A pastel flashcard app for studying Japanese vocabulary by chapter.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8fb",
+  "theme_color": "#f7d9e8",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}

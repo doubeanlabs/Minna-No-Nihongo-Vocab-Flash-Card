@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f7d9e8" />
+    <title>Japanese Vocabulary Cards</title>
+    <link rel="manifest" href="manifest.json" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Japanese Study</p>
+          <h1>Vocabulary Cards</h1>
+        </div>
+        <div class="topbar-actions">
+          <label class="tool-button">
+            Upload CSV
+            <input id="csvInput" type="file" accept=".csv,text/csv" hidden />
+          </label>
+          <label class="tool-button">
+            Import Save
+            <input id="stateInput" type="file" accept=".json,application/json" hidden />
+          </label>
+          <button id="exportButton" class="tool-button" type="button">Export Save</button>
+          <button id="resetProgressButton" class="tool-button subtle" type="button">Reset Progress</button>
+        </div>
+      </header>
+
+      <main class="workspace">
+        <aside class="chapter-panel" aria-label="Chapter navigation">
+          <div class="chapter-heading">
+            <span>Chapters</span>
+            <span id="chapterTotal" class="pill">0</span>
+          </div>
+          <select id="chapterSelect" class="chapter-select" aria-label="Choose chapter"></select>
+          <nav id="chapterList" class="chapter-list"></nav>
+        </aside>
+
+        <section class="study-panel">
+          <div class="study-toolbar">
+            <div>
+              <h2 id="chapterTitle">Loading vocabulary...</h2>
+              <p id="chapterStats" class="muted">Please wait a moment.</p>
+            </div>
+            <div class="toolbar-controls">
+              <div class="segmented" aria-label="Filter cards">
+                <button class="segment active" data-filter="all" type="button">All</button>
+                <button class="segment" data-filter="mastered" type="button">Mastered</button>
+                <button class="segment" data-filter="unmastered" type="button">Unmastered</button>
+              </div>
+              <label class="size-control">
+                Size
+                <input id="sizeSlider" type="range" min="1" max="100" value="45" />
+              </label>
+              <button id="startQuizButton" class="primary-button" type="button">Start Quiz</button>
+            </div>
+          </div>
+
+          <div id="messageArea" class="message-area" hidden></div>
+          <div id="cardGrid" class="card-grid" aria-live="polite"></div>
+          <div class="chapter-end">
+            <button id="bottomQuizButton" class="primary-button" type="button">Quiz This Chapter</button>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <dialog id="importDialog" class="dialog">
+      <form method="dialog">
+        <h2 id="dialogTitle">Import review</h2>
+        <p id="dialogSummary" class="muted"></p>
+        <div id="dialogWarnings" class="warning-list"></div>
+        <div class="dialog-actions">
+          <button id="cancelImportButton" class="tool-button subtle" value="cancel" type="button">Cancel</button>
+          <button id="confirmImportButton" class="primary-button" value="confirm" type="button">Import Valid Rows</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="quizDialog" class="quiz-dialog">
+      <form method="dialog">
+        <div class="quiz-header">
+          <div>
+            <p id="quizProgress" class="eyebrow">Quiz</p>
+            <h2 id="quizTitle">Chapter Quiz</h2>
+          </div>
+          <button id="closeQuizButton" class="icon-text-button" type="button">Close</button>
+        </div>
+        <div id="quizBody" class="quiz-body"></div>
+      </form>
+    </dialog>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

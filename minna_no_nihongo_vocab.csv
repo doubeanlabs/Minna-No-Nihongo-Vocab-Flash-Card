@@ -1,0 +1,1768 @@
+﻿chapter,hiragana,kanji,english
+0,はじめましょう,始めましょう,Let's begin.
+0,やすみましょう。,休みましょう。,Let's take a break.
+0,はい、わかります。,,"Yes, I do"
+0,いいえ、わかりません。,,"No, I don't"
+0,もういちど。,もう 一度。,Once more.
+0,けっこうです。,結構です,Fine. / Good.
+0,だめです。,駄目です,That's not OK. / That's wrong.
+0,なまえ,名前,name
+0,しゅくだい,宿題,homework
+0,しつもん,質問,question
+0,こたえ,答え,answer
+0,れい,例,example
+0,こんにちは。,今日は,Good afternoon.
+0,こんばんは。,今晩は,Good evening.
+0,おやすみなさい。,お休みなさい。,Good night.
+0,さようなら。,,Good-bye.
+0,ありがとう,ございます。,Thank you very much
+0,すみません。,,Excuse me. / I'm sorry.
+0,ゼロ、れい,,0
+0,いち,一,1
+0,さん,三,3
+0,ご,五,5
+0,ろく,六,6
+0,なな、しち,七,7
+0,はち,八,8
+0,きゅう、く,九,9
+0,じゅう,十,10
+1,わたし,私,I
+1,わたしたち,私達,we
+1,あなた,貴方,you
+1,あのひと,あの人,"that person, he, she"
+1,あのかた,あの方,polite equivalent of あのひと
+1,みなさん,皆さん,"ladies and gentlemen, all of you"
+1,～さん,,"Mr., Ms. (title of respect added to a name)"
+1,～くん,～君,(suffix often added to a boy's name)
+1,きょうし,教師,"teacher, instructor"
+1,がくせい,学生,student
+1,いしゃ,医者,medical doctor
+1,けんきゅうしゃ,研究者,"researcher, scholar"
+1,エンジニア,,engineer
+1,だいがく,大学,university
+1,びょういん,病院,hospital
+1,でんき,電気,"electricity, light"
+1,どなた,何方,polite equivalent of だれ
+1,なんさい,何歳,how old
+1,おいくつ,お幾つ,polite equivalent なんさい
+1,はい,,yes
+1,しつれいですが,失礼ですが,"Excuse me, but"
+1,おなまえは？,お名前は？,May I have your name?
+1,はじめまして。,初めまして。,How do you do?
+1,こちらは～さんです。,此方は～さんです,This is Mr./Ms. ~.
+1,～からきました,～から来ました,I came (come) from ~.
+2,これ,,this (thing near the speaker)
+2,それ,,"that (thing far the speaker, near the listener)"
+2,あれ,,that (thing far both speaker and listener)
+2,この～,,"this ~, this ~ here"
+2,その～,,"that ~, that ~ near you"
+2,ほん,本,book
+2,じしょ,辞書,dictionary
+2,ざっし,雑誌,magazine
+2,しんぶん,新聞,newspaper
+2,ンート,,notebook
+2,てちょう,手帳,pocket notebook
+2,めいし,名刺,business card
+2,カード,,card
+2,えんぴつ,鉛筆,pencil
+2,ボールペン,,ballpoint pen
+2,シャープペンシル,,"mechanical pencil, propelling pencil"
+2,かぎ,鍵,key
+2,とけい,時計,"watch, clock"
+2,かさ,傘,umbrella
+2,かばん,鞄,"bag, briefcase"
+2,カセットテープ,,casette tape
+2,テレビ,,television
+2,ラジオ,,radio
+2,カメラ,,camera
+2,コンピューター,,computer
+2,じどうしゃ,自動車,"automobile, car"
+2,つくえ,机,desk
+2,チョコレート,,chocolate
+2,えいご,英語,the English language
+2,にほんご,日本語,the Japanese language
+2,～ご,～語,~ language
+2,なん,何,what
+2,そう,,so
+2,ちがいます,違います,"No, it isn't. You are wrong."
+2,あのう,,well...(used to show hesitation)
+2,ほんの きもちです,本の気持ちです,It's nothing./It's a token of my gratitude.
+2,どうも,,"Well, thanks."
+2,どうもありがとう,,Thank you
+2,ございます,,very much
+3,ここ,,"here, this place"
+3,そこ,,"there, that place near you"
+3,あそこ,,that place over there
+3,どこ,,"where, what place?"
+3,こちら,,"this way, this place (polite ここ)"
+3,そちら,,"that way, that place near you (polite そこ)"
+3,あちら,,"that way, that place over there (polite あそこ)"
+3,どちら,,"which way, where (polite どこ)"
+3,きょうしつ,教室,classroom
+3,しょくどう,食堂,"dining hall, canteen"
+3,じむしょ,事務所,office
+3,かいぎしつ,会議室,"conference room, assembly rooms"
+3,うけつけ,受付,reception desk
+3,ロビー,,lobby
+3,トイレ（おてあらい）,（お手洗い）,toilet
+3,かいだん,階段,staircase
+3,エレベーター,,"elevator, lift"
+3,エスカレーター,,escalator
+3,かいしゃ,会社,work
+3,うち,家,"house, home"
+3,でんわ,電話,"telephone, telephone call"
+3,ネクタイ,,necktie
+3,ワイン,,wine
+3,たばこ,煙草,"tobacco, cigarette"
+3,うりば,売り場,"department, counter (in a department store)"
+3,ちか,地下,basement
+3,〜かい（〜がい）,〜階,~th floor
+3,なんがい,何階,what floor
+3,〜えん,〜円,~yen
+3,いくら,幾ら,how much
+3,ひゃく,百,hundred
+3,せん,千,thousand
+3,まん,万,ten thousand
+3,すみません。,,Excuse me.
+3,～でございます。,,(polite equivalent of です)
+3,[～を],みせてください。,Please show me [~].
+3,じゃ,,"well, then, in that case"
+3,[～を]くだざい。,,"Give me [~], please."
+4,おきます,起きます,"get up, wake up"
+4,ねます,寝ます,"sleep, go to bed"
+4,はたらきます,働きます,work
+4,やすみます,休みます,"take a rest, take a holiday"
+4,べんきょうします,勉強します,study
+4,デパート,,department store
+4,ぎんこう,銀行,bank
+4,ゆうびんきょく,郵便局,post office
+4,としょかん,図書館,library
+4,びじゅつかん,美術館,art museum
+4,いま,今,now
+4,～じ,～時,~o'clock
+4,～ふん （〜ぷん）,～分,~minute
+4,なんじ,何時,what time
+4,なんぷん,何分,what minute
+4,ごぜん,午前,"a.m., morning"
+4,ごご,午後,"p.m., afternoon"
+4,あさ,朝,morning
+4,ひる,昼,"daytime, noon"
+4,ばん（よる）,晩（夜）,"night, evening"
+4,おととい,一昨日,the day before yesterday
+4,きょう,今日,today
+4,あした,明日,tomorrow
+4,あさって,明後日,the day after tomorrow
+4,けさ,今朝,this morning
+4,こんばん,今晩,"this evening, tonight"
+4,やすみ,休み,"rest, a holiday, a day off"
+4,ひるやすみ,昼休み,lunchtime
+4,まいあさ,毎朝,every morning
+4,まいばん,毎晩,every evening
+4,まいにち,毎日,every day
+4,げつようび,月曜日,Monday
+4,かようび,火曜日,Tuesday
+4,もくようび,木曜日,Thursday
+4,きんようび,金曜日,Friday
+4,どようび,土曜日,Saturday
+4,にちようび,日曜日,Sunday
+4,なんようび,何曜日,what day of the week
+4,ばんごう,番号,number
+4,なんばん,何番,what number
+4,～から,,from ~
+4,～と～,,and (used to connect nouns)
+4,そちら,,your place
+4,えーと,,"well, let me see"
+4,おねがいします。,お願いします。,Please. (lit. ask for a favor)
+4,かしこまりました。,,"Certainly (sir, madam)."
+4,おといあわせのばんごう,,the number being inquired about
+5,きます,来ます,come
+5,かえります,帰ります,"go home, return"
+5,がっこう,学校,school
+5,スーパー,,supermarket
+5,えき,駅,station
+5,ひこうき,飛行機,airplane
+5,ふね,船,ship
+5,でんしゃ,電車,electric train
+5,しんかんせん,新幹線,"the Shinkansen, the bullet train"
+5,バス,,bus
+5,タクシー,,taxi
+5,じてんしゃ,自転車,bicycle
+5,あるいて,歩いて,on foot
+5,ひと,人,"person, people"
+5,ともだち,友達,friend
+5,かれ,彼,"he, boyfriend, lover"
+5,かのじょ,彼女,"she, girlfriend, lover"
+5,ひとりで,一人で,"alone, by oneself"
+5,せんしゅう,先週,last week
+5,こんしゅう,今週,this week
+5,らいしゅう,来週,next week
+5,せんげつ,先月,last month
+5,こんげつ,今月,this month
+5,らいげつ,来月,next month
+5,きょねん,去年,last year
+5,らいねん,来年,next year
+5,～がつ,～月,~th month of the year
+5,なんがつ,何月,what month
+5,ついたち,一日,first day of the month
+5,ふつか,二日,"second, two days"
+5,みっか,三日,"third, three days"
+5,よっか,四日,"fourth, four days"
+5,いつか,五日,"fifth, five days"
+5,なのか,七日,"seventh, seven days"
+5,ようか,八日,"eigth, eight days"
+5,ここのか,九日,"ninth, nine days"
+5,とおか,十日,"tenth, ten days"
+5,じゅうよっか,十四日,"fourteenth, fourteen days"
+5,はつか,二十日,"twentieth, twenty days"
+5,～にち,～日,"~th day of the month, ~days"
+5,いつ,何時,when
+5,たんじょうび,誕生日,birthday
+5,ふつう,普通,local (train)
+5,きゅうこう,急行,rapid
+5,とっきゅう,特急,express
+5,つぎの,次の,next
+5,～ばんせん,～番線,"platform ~, ~th platform"
+6,たべます,食べます,eat
+6,のみます,飲みます,drink
+6,すいます［たばこを～］吸います,,smoke [a cigarette]
+6,みます,見ます,"see, look at, watch"
+6,ききます,聞きます,"hear, listen"
+6,かきます,書きます,"write, draw, paint"
+6,かいます,買います,buy
+6,ごはん,ご飯,"a meal, cooked rice"
+6,ひるごはん,昼ごはん,lunch
+6,ばんごはん,晩ごはん,supper
+6,たまご,卵,egg
+6,にく,肉,meat
+6,さかな,魚,fish
+6,やさい,野菜,vegetable
+6,くだもの,果物,fruit
+6,みず,水,water
+6,おちゃ,お茶,"tea, green tea"
+6,こうちゃ,紅茶,black tea
+6,ジュース,,juice
+6,ビール,,beer
+6,ビデオ,,video
+6,えいが,映画,movie
+6,てがみ,手紙,letter
+6,レポート,,report
+6,みせ,店,"store, shop"
+6,レストラン,,restaurant
+6,にわ,庭,garden
+6,しゅくだい,宿題,homework (～をします: do homework)
+6,テニス,,tennis
+6,サッカー,,"soccer, football (～をします: play soccer)"
+6,なに,何,what
+6,いっしょに,一緒に,together
+6,ちょっと,一寸,"a little while, a little bit"
+6,いつも,何時も,"always, usually"
+6,ときどき,時々,sometimes
+6,それから,,"after that, and then"
+6,いいですね。,,That's good.
+6,なんですか,何ですか。,Yes?
+7,きります,切ります,"cut, slice"
+7,おくります,送ります,send
+7,あげます,上げる,give
+7,もらいます,貰います,receive
+7,かします,貨します,lend
+7,おしえます,教えます,teach
+7,ならいます,習います,learn
+7,はし,箸,chopsticks
+7,スプーン,,spoon
+7,ナイフ,,knife
+7,フォーク,,fork
+7,はさみ,,scissors
+7,ファクス,,fax
+7,ワープロ,,word procecessor
+7,パソコン,,personal computer
+7,ホッチキス,,stapler
+7,セロテープ,,"Scotch tape, clear adhesive tape"
+7,けしゴマ,消しゴマ,eraser
+7,かみ,紙,paper
+7,はな,花,"flower, blossom"
+7,シャツ,,shirt
+7,プレゼント,,"present, gift"
+7,にもつ,荷物,"baggage, parcel"
+7,おかね,お金,money
+7,きっぷ,切符,ticket
+7,クリスマス,,Christmas
+7,ちち,父,(my) father
+7,おとうさん,お父さん,(someone else's) father
+7,おかあさん,お母さん,(someone else's) mother
+7,もう,,already
+7,まだ,,not yet
+7,これから,,"from now on, soon"
+7,いらっしゃい。,,How nice of you to come. (lit. Welcome.)
+7,りょこう,旅行,"trip, tour"
+8,ハンサム［な］,,handsome
+8,きれい［な］,,"beautiful, clean"
+8,しずか［な］,静か［な］,quiet
+8,にぎやか［な］,賑やか［な］,lively
+8,ゆうめい［な］,有名［な］,famous
+8,しんせつ［な］,親切［な］,kind
+8,げんき［な］,元気［な］,"healthy, sound, cheerful"
+8,べんり［な］,便利［な］,convenient
+8,すてき［な］,素敵,"fine, nice, wonderful"
+8,おおきい,大きい,"big, large"
+8,ちいさい,小さい,"small, little"
+8,あたらしい,新しい,new
+8,ふるい,古い,old (not of age)
+8,いい（よい）,,good
+8,わるい,悪い,bad
+8,あつい,厚い、熱い,hot
+8,さむい,寒い,cold (referring to temperature)
+8,つめたい,冷たい,"cold (referring to touch, as a drink)"
+8,むずかしい,難しい,difficult
+8,やさしい,易しい,easy
+8,やすい,安い,inexpensive
+8,ひくい,低い,low
+8,おもしろい,面白い,interesting
+8,おいしい,美味しい,"delicious, tasty"
+8,いそがしい,忙しい,busy
+8,たのしい,楽しい,enjoyable
+8,しろい,白い,white
+8,くろい,黒い,black
+8,あおい,青い,blue
+8,さくら,桜,cherry (blossom)
+8,やま,山,mountain
+8,まち,町,"town, city"
+8,たべもの,食べ物,food
+8,くるま,車,"car, vehicle"
+8,ところ,所,place
+8,りょう,寮,dormitory
+8,せいかつ,生活,life
+8,どう,,how
+8,どんな～,,what kind of ~
+8,どれ,,which one (of three or more)
+8,とても,,very
+8,あまり,,not so (used with negatives)
+8,そして,,and (used to connect sentences)
+8,おげんきですか。,お元気ですか。,How are you?
+8,そうですね。,,Well let me see. (pausing)
+8,にほんのせいかつになれまし,日本の生活に慣れました,Have you got used to the life in
+8,たか。,か。,Japan?
+8,いいえ、けっこうです。,,"No, thank you."
+8,もう～です［ね］。,,"It's already ~ [, isn't it?]"
+8,そろそろしつれいします。,そろそろ失礼します。,It's almost time to leave now.
+8,またいらっしゃてください。,,Please come again.
+9,わかります［が］,分かります,understand
+9,すき［な］,好き［な］,like
+9,きらい［な］,嫌い［な］,dislike
+9,じょうず［な］,上手［な］,good at
+9,へた［な］,下手［な］,poor at
+9,りょうり,料理,"dish (cooked food), cooking"
+9,のみもの,飲み物,drinks
+9,スポーツ,,sport (～をします:play sports)
+9,やきゅう,野球,baseball (～をします:play baseball)
+9,ダンス,,dance (～をします:dance)
+9,おんがく,音楽,music
+9,うた,歌,song
+9,クラシック,,classical music
+9,ジャズ,,jazz
+9,コンサート,,concert
+9,カラオケ,,karaoke
+9,かぶき,歌舞伎,Kabuki (traditional Japanese musical drama)
+9,じ,字,"letter, character"
+9,かんじ,漢字,Chinese characters
+9,ひらがな,,Hiragana script
+9,かたかな,,Katakana script
+9,ローマじ,ローマ字,the Roman alpahabet
+9,こまかいおかね,細かいお金,small change
+9,じかん,時間,time
+9,やくそく,約束,"appointment, promise"
+9,ごしゅじん,ご主人,(someone else's) husband
+9,おっと／しゅじん,夫／主人,(my) husband
+9,おくさん,奥さん,(someone else's) wife
+9,つま／かない,妻／家内,(my) wife
+9,こども,子ども,child
+9,だいたい,,"mostly, roughly"
+9,たくさん,,"many, much"
+9,すこし,少し,"a little, a few"
+9,ぜんぜん,全然,not at all (used with negatives)
+9,はやく,早く、速く,"early, quickly, fast"
+9,～から,,because ~
+9,どうして,,why
+9,すみません。,,I am sorry.
+9,もしもし,,hello (used on phone)
+9,ああ,,oh
+9,だめですか。,駄目ですか。,So you cannot (come)?
+9,またこんどおねが,また今度お願い,Please ask me again some other time. (when refusing an
+10,ありま［が］,,"exist, be (referring to inanimate things)"
+10,いろいろ［な］,色々,various
+10,おとこのひと,男の人,man
+10,おんなのひと,女の人,woman
+10,おとこのこ,男の子,boy
+10,おんなのこ,女の子,girl
+10,いぬ,犬,dog
+10,ねこ,猫,cat
+10,もの,物,thing
+10,フィルム,,film
+10,でんち,電池,battery
+10,はこ,箱,box
+10,スイッチ,,switch
+10,れいぞうこ,冷蔵庫,refrigerator
+10,ベッド,,bed
+10,ドア,,door
+10,まど,窓,window
+10,ポスト,,"mailbox, postbox"
+10,ビル,,building
+10,こうえん,公園,park
+10,きっさてん,喫茶店,coffee shop
+10,～や,～屋,~ store
+10,のりば,乗り場,"a fixed place to catch taxis, trains, etc."
+10,けん,県,prefecture
+10,うえ,上,"on, above, over"
+10,した,下,"under, below, beneath"
+10,うしろ,後ろ,"back, behind"
+10,みぎ,右,right [side]
+10,ひだり,左,left [side]
+10,なか,中,"in, inside"
+10,そと,外,outside
+10,となり,隣,"next, next door"
+10,ちかく,近く,"near, vicinity"
+10,あいだ,間,"between, among"
+10,いちばん～,一番,the most ~ (いちばん うえ: the top)
+10,～だんめ,～段目,the ~th shelf (だん is the counter for shelves)
+10,おく,奥,the back
+10,スパイスコーナー,,spice corner
+11,います［こどもが～］,,have [a child]
+11,います［にほんに～］,,"stay, be [in Japan]"
+11,かかります,掛ります,take (referring to time or money)
+11,ひとつ,一つ,one (used when counting things)
+11,ふたつ,二つ,two (used when counting things)
+11,みっつ,三つ,three (used when counting things)
+11,よっつ,四つ,four (used when counting things)
+11,いつつ,五つ,five (used when counting things)
+11,ななつ,七つ,seven (used when counting things)
+11,やっつ,八つ,eight (used when counting things)
+11,ここのつ,九つ,nine (used when counting things)
+11,とお,十,ten (used when counting things)
+11,いくつ,幾つ,how many
+11,ひとり,一人,one person
+11,～にん,～人,~ people
+11,～まい,～枚,"counter for paper, stamps, etc."
+11,～かい,～回,~ times
+11,りんご,,apple
+11,みかん,蜜柑,mandarin orange
+11,サンドイッチ,,sandwich
+11,アイスクリーム,,ice cream
+11,きって,切手,postage stamp
+11,はがき,葉書,post card
+11,ふうとう,封筒,envelope
+11,そくたつ,速達,special delivery
+11,かきとめ,書留,registered mail
+11,ふなびん,船便,sea mail
+11,りょうしん,両親,parents
+11,きょうだい,兄弟,brothers and sisters
+11,あに,兄,(my) elder brother
+11,おにいさん,お兄さん,(someone else's) elder brother
+11,おねえさん,お姉さん,(someone else's) elder sister
+11,おとうと,弟,(my) younger brother
+11,おとうとさん,弟さん,(someone else's) younger brother
+11,いもうと,妹,(my) younger sister
+11,いもうとさん,妹さん,(someone else's) younger sister
+11,がいこく,外国,foreign country
+11,～じかん,～時間,~hours
+11,～しゅうかん,～週間,~weeks
+11,～ねん,～年,~years
+11,～ぐらい,,about ~
+11,～どのくらい,,how long
+11,ぜんぶで,全部で,in total
+11,みんな,皆,"all, everything"
+11,～だけ,,only ~
+11,おでかけですか。,お出かけですか。Are,you going out?
+11,ちょっと～まで。,一寸～まで,I'm just going to ~.
+11,いっていらっしゃい,,So long. (lit. Go and come back.)
+11,いってまいります,行ってまいります。So,long. (lit. I'm going and coming back.)
+11,それから,,"and, furthermore"
+12,かんたん［な］,簡単［な］,"easy, simple"
+12,ちかい,近い,near
+12,はやい,速い、早い,"fast, early"
+12,おそい,遅い,"slow, late"
+12,おおい［ひとが～］,多い［人が～］,"many [people], much"
+12,すくない［ひとが～］少ない［人が～］few,,"[people], a little"
+12,あたたかい,暖かい、温かい,warm
+12,すずしい,涼しい,cool
+12,からい,辛い,"hot (taste), spicy"
+12,かるい,軽い,light
+12,いい［コーヒーが～］,,prefer[coffee]
+12,きせつ,季節,season
+12,はる,春,spring
+12,なつ,夏,summer
+12,あき,秋,"autumn, fall"
+12,てんき,天気,weather
+12,あめ,雨,"rain, rainy"
+12,ゆき,雪,"snow, snowy"
+12,くもり,曇り,cloudy
+12,ホテル,,hotel
+12,くうこう,空港,airport
+12,うみ,海,"sea, ocean"
+12,せかい,世界,world
+12,しけん,試験,examination
+12,すきやき,すき焼き,sukiyaki (beef and vegetables hot pot)
+12,さしみ,刺身,sashimi (sliced raw fish)
+12,てんぷら,,tempura (seafood and vegetables deep fried in batter)
+12,もみじ,紅葉,"maple, red leaves of autumn"
+12,どちら,,which one (between two things)
+12,どちらも,,both
+12,ずっと,,by far
+12,はじめて,初めて,for the first time
+12,ただいま。,,I'm home.
+12,おかえりなさい。,,Welcome home.
+12,すごいですね。,凄いですね,That's amazing.
+12,つかれました,疲れました,(I'm) tired.
+13,あそびます,遊びます,"enjoy oneself, play"
+13,およぎます,泳ぎます,swim
+13,むかえます,迎えます,"go to meet, welcome"
+13,つかれます,疲れます,get tired
+13,でます［きっさてんを～］,出ます,go out [of a coffee shop]
+13,けっこんします,結婚します,"marry, get married"
+13,しょくじします,食事します,"have a meal, dine"
+13,さんぽします［こうえんを,,take a walk [in a park]
+13,たいへん［な］,大変［な］,"hard, tough, severe, awful"
+13,さびしい,寂しい,lonely
+13,せまい,狭い,"narrow, small (room, etc.)"
+13,しやくしょ,市役所,"municipal office, city hall"
+13,プール,,swimming pool
+13,かわ,川,river
+13,けいざい,経済,economy
+13,びじゅつ,美術,fine arts
+13,つり,釣り,"fishing (～をします: fish, angle)"
+13,スキー,,skiing (～をします: ski)
+13,とうろく,登録,registration (～をします: register)
+13,しゅうまつ,週末,weekend
+13,～ごろ,,about (time)
+13,なにか,何か,something
+13,どこか,,"somewhere, some place"
+13,おなかがすきました。,お腹が空きました,(I'm) hungry.
+13,おなかがいっぱいです。,お腹が一杯です,(I'm) full.
+13,のどがかわきました。,,(I'm) thirsty.
+13,そうですね。,,I agree with you.
+13,ごちゅうもんは？,ご注文は？,May I take your order?
+13,ていしょく,定食,set meal
+13,ぎゅうどん,牛どん,bowl of rice topped with beef
+13,べつべつに,別々に,separately
+14,つけます,,turn on
+14,けします,消します,turn off
+14,あけます,開けます,open
+14,いそぎます,急ぎます,hurry
+14,まちます,待ちます,wait
+14,とめます,止めます,"stop, park"
+14,まがります［みぎへ～］,曲がります,turn [to the right]
+14,もちます,持ちます,hold
+14,とります,取ります,"take, pass"
+14,てつだいます,手伝います,help (with a task)
+14,よびます,呼びます,call
+14,みせます,見せます,show
+14,はじめます,始めます,"start, begin"
+14,コピーします,,copy
+14,エアコン,,air conditioner
+14,パスポート,,passport
+14,なまえ,名前,name
+14,じゅうしょ,住所,address
+14,ちず,地図,map
+14,しお,塩,salt
+14,さとう,砂糖,sugar
+14,～かた,～方,"how to ~, way of ~ing"
+14,ゆっくり,,"slowly, leisurely"
+14,すぐ,直ぐ,immediately
+14,また,又,again
+14,あとで,,later
+14,もうすこし,もう少し,a little more
+14,もう～,,"~ more, another ~"
+14,いいですよ。,,Sure. / Certainly
+14,あれ？,,Oh!(in surprise or in wonder)
+14,まっすぐ,真っ直ぐ,straight
+14,これでおねがいします。,これでお寝がいします。I'd,like to pay with this.
+14,おつり,お釣り,change
+15,たちます,立ちます,stand up
+15,つかいます,使います,use
+15,おきます,置きます,put
+15,つくります,作ります、造ります,"make, produce"
+15,うります,売ります,sell
+15,しります,知ります,get to know
+15,すみます,住ます,be going to live
+15,けんきゅうします,研究します,do research
+15,しっています,知っています,know
+15,しりょう,資料,"materials, data"
+15,カタログ,,catalog
+15,じこくひょう,時刻表,timetable
+15,ふく,服,clothes
+15,せいひん,製品,products
+15,ソフト,,software
+15,せんもん,専門,"speciality, field of study"
+15,はいしゃ,歯医者,"dentist, dentist's"
+15,プレイガイド,,(theatre) ticket agency
+15,どくしん,独身,"single, unmarried"
+15,とくに,特に,especially
+15,おもいだします,思い出します,"remember, recollect"
+15,ごかぞく,ご家族,your family
+15,いらっしゃいます,,be (honorific equivalent of います）
+15,こうこう,高校,senior high school
+16,のります［でんしゃに～］,乗ります,"ride, get on [a train]"
+16,おります［でんしゃを～］,降ります,get off [a train]
+16,のりかえます,乗り換えます,"change (trains, etc.)"
+16,あびます［シャワーを～］,浴びます,take [a shower]
+16,いれます,入れます,"put in, insert"
+16,はいります［だいがくに～］,入ります,enter [university]
+16,でます［だいがくを～］,出ます,graduate from [university]
+16,やめます［かいしゃを～］,辞めます,"quit or retire from [a company], stop, give up"
+16,おします,押します,"press, push"
+16,わかい,若い,young
+16,ながい,長い,long
+16,みじかい,短い,short
+16,あかるい,明るい,"bright, light"
+16,せがたかい,背が高い,tall (referring to person)
+16,あたまがいい,頭がいい,"clever, smart"
+16,からだ,体,body
+16,あたま,頭,head
+16,かみ,髪,hair
+16,かお,顔,face
+16,め,目,eye
+16,みみ,耳,ear
+16,は,歯,tooth
+16,おなか,お腹,stomach
+16,あし,足,"leg, foot"
+16,サービス,,service
+16,ジョギング,,jogging (～をします :jog)
+16,シャワー,,shower
+16,みどり,緑,"green, greenery"
+16,じんじゃ,神社,Shinto shrine
+16,りゅうがくせい,留学生,foreign student
+16,どうやって,,"in what way, how"
+16,どの～,,which ~ (used for three or more)
+16,おひきだしですか。,お引き出しですか。Are,you making a withdrawl?
+16,まず,先ず,first of all
+16,キャッシュカード,,cash dispensing card
+16,つぎに,次に,"next, as a next step"
+16,きんがく,金額,amount of money
+16,かくにん,確認,confirmation ( ～します: confirm)
+16,ボタン,,button
+17,おぼえます,覚えます,memorise
+17,わすれます,忘れます,forget
+17,だします［レポートを～］出します,,hand in [ a report]
+17,はらいます,払います,pay
+17,かえします,返します,"give back, return"
+17,でかけます,出かけます,go out
+17,ぬぎます,脱ぎます,"take off (clothes, shoes, etc.)"
+17,もっていきます,持って行ます,take (something) (lit. grab and go)
+17,もってきます,持って木ます,bring (something) (lit. grab and come)
+17,しんぱいします,心配します,worry
+17,しゅっちょうします,出張します,go on a business trip
+17,のみます［くすりを～］,飲みます,take [medicine]
+17,はいります［おふろに～］入ります,,take [a bath]
+17,たいせつ［な］,大切［な］,"important, precious"
+17,だいじょうぶ［な］,大丈夫［な］,all right
+17,あぶない,危ない,dangerous
+17,こたえ,答え,answer
+17,ねつ,熱,fever
+17,くすり,薬,medicine
+17,うわぎ,上着,"jacket, outerwear"
+17,したぎ,下着,underwear
+17,せんせい,先生,doctor)
+17,～までに,,"before ~, by ~ (indicating time limit)"
+17,ですから,,"therefore, so"
+17,どうしましたか。,,What's the matter?
+17,のど,,throat
+18,できます,出来ます,"be able to, can"
+18,あらいます,洗います,wash
+18,ひきます,弾きます,"play (stringed instrument or piano, etc.)"
+18,うたいます,歌います,sing
+18,すてます,捨てます,throw away
+18,かえます,換えます,"exchange, change"
+18,うんてんします,運転します,drive
+18,よやくします,予約します,"reserve, book"
+18,けんがくします,見学します,visit some place for study
+18,ピアノ,,piano
+18,～メートル,,~ meter
+18,こくさい～,国際～,international ~
+18,しゅみ,趣味,hobby
+18,にっき,日記,diary
+18,かちょう,課長,section chief
+18,ぶちょう,部長,department chief
+18,しゃちょう,社長,president of a company
+18,どうぶつ,動物,animal
+18,うま,馬,horse
+18,へえ,,Really! (used when expressing surprise)
+18,それはおもしろいですね。,,That must be interesting.
+18,なかなか,中々,not easily (used with negatives)
+18,ぼくじょう,牧場,"ranch, stock farm"
+18,ほんとうですか。,本当ですか。,Really?
+18,ぜひ,是非,by all means
+19,のぼります［やまに～］,登ります,climb [a mountain]
+19,とまります［ホテルに～］,泊まります,stay [at a hotel]
+19,そうじします,掃除します,clean (a room)
+19,せんたくします,洗濯します,wash (clothes)
+19,れんしゅうします,練習します,practice
+19,なります,,become
+19,ねむい,眠い,sleepy
+19,つよい,強い,strong
+19,よわい,弱い,weak
+19,ちょうしがいい,調子がいい,be in good condition
+19,ちょうしがわるい,調子が悪い,be in bad condition
+19,ゴルフ,,golf
+19,すもう,相撲,sumo wrestling
+19,パチンコ,,pinball game (～をします: play pachinko)
+19,おちゃ,お茶,tea ceremony
+19,ひ,日,"day, date"
+19,いちど,一度,once
+19,いちども,一度も,"not once, never (used with negatives)"
+19,だんだん,段々,gradually
+19,もうすぐ,,soon
+19,かんぱい,乾杯,Bottoms up./Cheers!
+19,じつは,実は,"actually, to tell the truth"
+19,ダイエット,,diet (～をします: go on a diet)
+19,なんかいも,何回も,many times
+19,しかし,,"but, however"
+19,からだにいい,体にいい,good for one's health
+19,ケーキ,,cake
+20,しらべます,調べます,"check, investigate"
+20,なおします,直します,"repair, correct"
+20,しゅうりします,修理します,repair
+20,でんわします,電話します,phone
+20,ぼく,僕,I (an infomal equivalent of わたしused by men)
+20,きみ,君,you (an informal equivalent of あなた used by men)
+20,～くん,～君,Mr. (an informal equivalent of ～さん used by men)
+20,うん,,yes (an informal equivalent of はい)
+20,ううん,,no (an informal equivalent of いいえ)
+20,サラレーマン,,"salaried worker, office worker"
+20,ことば,言葉,"word, language"
+20,きもの,着物,kimono (traditional Japanese attire)
+20,ビザ,,visa
+20,はじめ,初め,the beginning
+20,おわり,終わり,the end
+20,こっち,,"this way, this place (an informal equivalent of こちら)"
+20,そっち,,"this way, that place (an informal equivalent of そちら)"
+20,このあいだ,この間,the other day
+20,みんなで,皆で,all together
+20,～けど,,"~, but (an infomal equivalent of が)"
+20,くにへかえるの？,国へ帰るの？,Are you going back to your country?
+20,どうするの？,,What will you do?
+20,どうしようかな。,,What shall I do?
+20,いろいろ,色々,various
+21,おもいます,思います,think
+21,いいます,言います,say
+21,たります,足ります,"be enough, be sufficient"
+21,かちます,勝ちます,win
+21,まけます,負けます,"lose, be beaten"
+21,やくにたちます,役に立ちます,be useful
+21,むだ［な］,無駄,wasteful
+21,ふべん［な］,不便［な］,inconvenient
+21,おなじ,同じ,the same
+21,しゅしょう,首相,prime minister
+21,だいとうりょう,大統領,president
+21,せいじ,政治,politics
+21,ニュース,,news
+21,スピーチ,,speech (～を します:make a speech)
+21,しあい,試合,"game, match"
+21,アルバイト,,side job (～を します:work part time)
+21,いけん,意見,opinion
+21,ユーモア,,humor
+21,デザイン,,design
+21,こうつう,交通,"transportation, traffic"
+21,ラッシュ,,rush hour
+21,さいきん,最近,"recently, these days"
+21,たぶん,多分,"probably, perhaps, maybe"
+21,きっと,,surely
+21,ほんとうに,本当に,really
+21,～について,,"about ~, concerning ~"
+21,しかたがありません。,仕方がありません。,There is no other choice. / It can't be helped.
+21,～でものみませんか。,～でも野みませんか。How,about drinking ~ or something?
+21,みないと…,見ないと…,I've got to watch it.
+21,もちろん,,of course
+22,きます［シャツを～］,着ます,"put on [a shirt, etc]"
+22,はきます［くつを～］,履きます,"put on [shoes, trousers, etc]"
+22,かけます［めがねを～］掛けます,,put on [glasses]
+22,うまれます,,be born
+22,コート,,coat
+22,スーツ,,suit
+22,セーター,,sweater
+22,ぼうし,帽子,"hat, cap"
+22,めがね,眼鏡,glasses
+22,よく,,often
+22,こちら,,this (polite equivalent of これ)
+22,やちん,家賃,house rent
+22,うーん,,Let me see.
+22,ダイニングキチン,,kitchen with a dining area
+22,わしつ,和室,Japanese-style room
+22,ふとん,布団,Japanese-style matress and quilt
+22,アパート,,apartment
+23,ききます［せんせいに～］,聞きます,ask [the teacher]
+23,まわします,回します,turn
+23,ひきます,引きます,pull
+23,かえます,変えます,change
+23,さわります［ドアに～］,触ります,touch [a door]
+23,でます［おつりが～］,出ます,[change] come out
+23,うごきます［とけいが～］,動きます,"[a watch] move, work"
+23,あるきます［みちを～］,歩きます,walk [along a road]
+23,わたります［はしを～］,渡ります,cross [a bridge]
+23,ひっこしします,引っ越ししますmove,(house)
+23,でんきや,電気屋,electrician
+23,～や,～屋,person of ~ shop
+23,サイズ,,size
+23,おと,音,sound
+23,きかい,機械,machine
+23,つまみ,抓み,knob
+23,こしょう,故障,breakdown (～します: breakdown)
+23,みち,道,"road, way"
+23,こうさてん,交差点,crossroad
+23,かど,角,corner
+23,はし,橋,bridge
+23,ちゅうしゃじょう,駐車場,"parking lot, car park"
+23,ーめ,ー目,the -th (indicating order)
+23,ごちそうさま［でした］。,ご馳走さま,That was delicious. (Said after eating or drinking)
+23,たてもの,建物,building
+23,がいこくじんとうろくしょう,外国人登録証,alien registration card
+24,くれます,呉れます,give (me)
+24,つれていきます,連れて行きます,take (someone)
+24,つれてきます,連れて来ます,bring (someone)
+24,おくります［ひとを～］,送ります,"escort [someone], go with"
+24,しょうかいします,紹介します,introduce
+24,あんないします,案内します,"show around, show the way"
+24,いれます［コーヒーを～］,,make [coffee]
+24,おじいさん／おじいちゃん,,"grandfather, old man"
+24,おばあさん／おばあちゃん,,"grandmother, old woman"
+24,じゅんび,準備,(～します:
+24,いみ,意味,meaning
+24,ぜんぶ,全部,all
+24,じぶんで,自分で,by oneself
+24,ほかに,外に,besides
+24,ワゴンしゃ,ワゴン車,station wagon
+25,かんがえます,考えます,"think, consider"
+25,つきます［えきに～］,着きます,arrive [at the station]
+25,とります［としを～］,取ります,grow old
+25,いなか,田舎,"countryside, hometown"
+25,たいしかん,大使館,embassy
+25,グループ,,group
+25,チャンス,,chance
+25,おく,億,hundred million
+25,いくら［～でも］,,"however ~, even if ~"
+25,こと,事,"thing, matter (～のこと: thing about ~)"
+25,ました。,りました。,for me.
+25,がんばります,頑張ります,do one's best
+26,みます,見ます、診ます,check
+26,さがします,探します、捜します,"look for, search"
+26,おくれます［じかんに～］,遅れます［時間に～］be,"late [for an appointment, etc.]"
+26,まにあいます［じかんに～］,,"be in time [for an appointment, etc.]"
+26,やります,,do
+26,もうしこみます,申し込みます,"apply for, enter for"
+26,つごうがいい,都合がいい,convenient (concerning time)
+26,つごうがわるい,都合が悪い,inconvenient (concerning time)
+26,きぶんがいい,気分がいい,feel well
+26,きぶんがわるい,気分が悪い,feel ill
+26,じゅうどう,柔道,judo
+26,うんどうかい,運動会,athletic meeting
+26,ばしょ,場所,place
+26,ボランティア,,volunteer
+26,～べん,～弁,~ dialect
+26,こんど,今度,"next time, another time"
+26,ずいぶん,随分,"pretty, very"
+26,ちょくせつ,直接,directly
+26,どこでも,,anywhere
+26,だれでも,誰でも,anybody
+26,なんでも,何でも,anything
+26,こんな～,,~ like this
+26,そんな～,,~ like that (near the listener)
+26,かたづきます［にもつが～］片づきます［荷物が～］[boxes],,be put in order
+26,だします［ごみを～］,出します［ごみを～］put,out [the trash]
+26,もえます［ごみが～］,燃えます［ごみが～］[trash],burn
+26,げつ・すい・きん,月・水・金,"Monday, Wednesday and Friday"
+26,おきば,置き場,place where something is put
+26,よこ,横,side
+26,びん,瓶,bottle
+26,かん,缶,can
+26,～がいしゃ,～会社,~ company
+26,れんらくします,連絡します,contact
+26,こまったなあ。,困ったなあ。,What shall I do?
+26,でんしメール,電子メール,electronic mail
+26,うちゅう,宇宙,"space, universe"
+26,こわい,恐い,be afraid of
+26,うちゅうせん,宇宙船,spaceship
+26,べつの,別の,another
+26,うちゅうひこうし,宇宙飛行士,astronaut
+27,かいます,飼います,"keep (a pet), raise (an animal)"
+27,はしります［みちを～］,,"run, drive [along a road]"
+27,みえます［やまが］,見えます［山が］[a,mountain] can be seen
+27,きこえます［おとが］,,[a sound] can be heard
+27,ペット,,pet
+27,とり,鳥,bird
+27,こえ,声,voice
+27,はなび,花火,fireworks
+27,けしき,景色,"scenery, view"
+27,ひるま,昼間,daytime
+27,むかし,昔,"old days, ancient times"
+27,どうぐ,道具,"tool, instrument, equipment"
+27,じどうはんばいき,自動販売機,vending machine
+27,つうしんはんばい,通信販売,"mail order, mail-order sales"
+27,クリーニング,,"(dry) cleaning, laundry"
+27,だいどころ,台所,kitchen
+27,～きょうしつ,～教室,~ class
+27,パーティールーム,,party room
+27,～ご,～後,after ~ (duration of time)
+27,～しか,,only ~ (used with negatives)
+27,ほかの,他の,other
+27,はっきり,,clearly
+27,にちようだいく,日曜大工,Sunday carpenter
+27,ほんだな,本棚,bookshelf
+27,ゆめ,夢,dream (～をみます: have a dream)
+27,いつか,,"someday, sometime"
+27,すばらしい,素晴らしい,"marvelous, wonderful"
+27,こどもたち,子供たち,children
+27,だいすき［な］,大好き［な］,like very much
+27,まんが,漫画,"cartoon, comic strip"
+27,しゅじんこう,主人公,"hero, heroine"
+27,かたち,形,shape
+27,ロボット,ロボット,robot
+27,ふしぎ［な］,不思議［な］,"fantastic, mysterious"
+27,ポケット,ポケット,pocket
+27,たとえば,例えば,for example
+27,つけます,付けます,"attach, put on"
+27,そら,空,sky
+27,とびます,飛びます,fly
+27,じぶん,自分,oneself
+27,しょうらい,将来,future
+28,うれます［パンが～］,売れます［パンが～］,"[bread] sell, be sold"
+28,かみます,,"chew, bite"
+28,ちがいます,違います,be different
+28,メモします,,take a memo
+28,ねっしん［な］,熱心［な］,earnest
+28,やさしい,優しい,"gentle, kind"
+28,えらい,偉い,"great, admirable"
+28,ちょうどいい,,"proper, just right"
+28,しゅうかん,習慣,custom
+28,けいけん,経験,experience
+28,いろ,色,color
+28,あじ,味,taste
+28,ガム,,chewing gum
+28,しなもの,品物,goods
+28,ねだん,値段,price
+28,きゅうりょう,給料,salary
+28,ボーナス,,bonus
+28,ばんぐみ,番組,program
+28,しょうせつ,小説,novel
+28,しょうせつか,小説家,novelist
+28,かしゅ,歌手,singer
+28,かんりにん,管理人,janitor
+28,むすこ,息子,(my) son
+28,むすこさん,息子さん,(someone else's) son
+28,むすめ,娘,(my) daughter
+28,むすめさん,娘さん,(someone else's) daughter
+28,しょうらい,将来,future
+28,しばらく,暫く,a little while
+28,たいてい,大抵,"usually, mostly"
+28,それに,,in addition
+28,それで,,and so
+28,ホームステイ,,homestay
+28,かいわ,会話,conversation
+28,おしゃべりします,,chat
+28,おしらせ,お知らせ,notice
+28,ど,土,Saturday
+28,たいいくかん,体育館,gymnasium
+28,むりょう,無料,free of charge
+29,あきます［ドアが～］,開きます［ドアが～］,[a door] open
+29,しまります［ドアが～］,閉まります［ドアが～］,[a door] close
+29,きえます［でんきが～］,消えます［電気が～］,"[a light] go off, disappear"
+29,こみます［みちが～］,込ます［道が～］,[a road] get crowded
+29,すきます［みちが～］,すきます［道が～］,[a road] get empty
+29,こわれます［いすが～］,壊れます［いすが～］,[a chair] break
+29,われます［コップが～］,割れます［コップが～］,"[a glass] break, smash"
+29,おれます［きが～］,折れます［木が～］,"[a tree] break, snap"
+29,やぶれます［かみが～］,破れます［紙が～］,[the paper] tear
+29,よごれます［ふくが～］,汚れます［服が～］,[the clothes] get dirty
+29,はずれます［ボタンが～］外れます［ボタンが～］,,[a button] be undone
+29,まちがえます,,make a mistake
+29,かかります［かぎが～］,掛かります［かぎが～］,be locked
+29,コップ,,glass (vessel)
+29,ガラス,,glass (material)
+29,ふくろ,袋,bag
+29,えだ,枝,"branch, twig"
+29,えきいん,駅員,station employee
+29,このへん,この辺,"this neighbourhood, around here"
+29,～へん,～辺,the place around ~
+29,このくらい,,about this size
+29,おさきに どうぞ。,お先に どうぞ。,"After you./Go ahead, please."
+29,いまのでんしゃ,今の電車,the train which has just left
+29,わすれもの,忘れ物,"things left behind, lost property"
+29,～がわ,～側,~side
+29,おぼえていません。,覚えていません。,I don't remember.
+29,あみだな,網棚,rack
+29,たしか,確か,"I suppose, if I am correct"
+29,じしん,地震,earthquake
+29,かべ,壁,wall
+29,はり,針,hands (of a clock)
+29,さします,指します,point
+29,たおれます,倒れます,fall down
+29,にし,西,west
+29,ほう,方,direction
+30,はります,,"put up, post, paste"
+30,かけます,掛ます,hang
+30,かざります,飾ります,"display, decorate"
+30,ならべます,並べます,"arrange, line up"
+30,もどします,戻します,"return, put ~ back"
+30,まとめます,纏めます,"put ~ together, put ~ in shape, sum up"
+30,かたづけます,片づけます,"put things in order, tidy up"
+30,しまいます,,put things in their proper place
+30,きめます,決めます,decide
+30,しらせます,知らせます,inform
+30,そうだんします,相談します,"consult, discuss"
+30,よしゅうします,予習します,prepare one's lesson
+30,ふくしゅうします復習します,,review one's lesson
+30,そのままにします,,leave things as they are
+30,じゅぎょう,授業,class
+30,こうぎ,講義,lecture
+30,ミーティング,,meeting
+30,よてい,予定,"plan, schedule"
+30,おしらせ,お知らせ,notice
+30,あんないしょ,案内書,guide book
+30,カレンダー,,calendar
+30,ポスター,,poster
+30,にんぎょう,人形,doll
+30,かびん,花瓶,vase
+30,かがみ,鏡,mirror
+30,ひきだし,引出し,drawer
+30,げんかん,玄関,"front door, porch, entrance hall"
+30,ろうか,廊下,"corridor, hallway"
+30,かべ,壁,wall
+30,いけ,池,pond
+30,もとのところ,元の所,original place
+30,まわり,周り,"round, around"
+30,まんなか,真ん中,center
+30,すみ,隅,corner (inside a room)
+30,まだ,,still
+30,～ほど,,about
+30,よていひょう,予定表,shedule
+30,きぼう,希望,"hope, request"
+30,ミュージカル,,musical
+30,それはいいですね。,,That's a good idea./That sounds nice.
+30,まるい,丸い,round
+30,ある～,,"one ~, a certain ~"
+30,うれしい,"嬉しい glad,",happy
+30,いや[な],"嫌[な] hateful,",disagreeable
+30,"すると and,",,then
+30,めがさめます,目が覚めます wake,up
+31,はじまります［しきが～］,始まります［式が～］,"[a ceremony] begin, start"
+31,みつけます,見つけます,find
+31,うけます［しけんを～］,受けます［試験を～］,take [an examination]
+31,にゅうがくします［だいがくに～］,入学します［大学に～］,enter [a university]
+31,そつぎょうします［だいがくを～］,卒業します［大学を～］,graduate [from a university]
+31,しゅっせきします［かいぎに～］,出席します［会議に～］,attend [a meeting]
+31,きゅうけいします,休憩します,"take a break, take a rest"
+31,れんきゅう,連休,consecutive holidays
+31,さくぶん,作文,"essay, competition"
+31,けっこんしき,結婚式,wedding ceremony
+31,しき,式,ceremony
+31,ほんしゃ,本社,head office
+31,してん,支店,branch office
+31,きょうかい,教会,church
+31,どうぶつえん,動物園,zoo
+31,おきゃく［さん］,お客［さん］,"visitor, guest, customer, client"
+31,だれか,誰か,somebody
+31,～の ほう,～の,"方 place toward ~, direction of ~"
+31,ずっと,,all the time
+31,のこります,残ります,"remain, be left"
+31,ふつうの,普通の,"ordinary, common, usual"
+31,インターネット,,Internet
+31,むら,村,village
+31,えいがかん,映画館,movie theater
+31,いや［な］,嫌［な］,"hatefull, disagreeable"
+31,そら,空,sky
+31,とじます,閉じます,close
+31,こどもたち,子どもたち,children
+31,じゆうに,自由に,freely
+31,せかいじゅう,世界中,all over the world
+31,あつまります,集まります,gather
+31,うつくしい,美しい,beautiful
+31,すばらしい,素晴らしい,"wonderful, magnificent"
+31,きがつきます,気がつきます,"notice, become aware of"
+32,うんどうします,運動します,take exercise
+32,せいこうします,成功します,succeed
+32,やみます［あめが～］,止みます［雨が～］[rain],"stop, end, be over"
+32,はれます,晴れます,clear up
+32,くもります,曇ります,become cloudy (overcast)
+32,ふきます［かぜが～］,吹きます［風が～］[wind],blow
+32,つづきます［ねつが～］続きます［熱が～］[high,,temperature] continue
+32,ひやします,冷やします,cool; [氷で] ice; refrigerate; chill.
+32,じゅうぶん［な］,十分［な］,"enough, sufficient"
+32,おかしい,おかしい,"strange, funny"
+32,うるさい,うるさい,noisy
+32,インフルエンザ,インフルエンザ,influenza
+32,そら,空,sky
+32,たいよう,太陽,sun
+32,ほし,星,star
+32,つき,月,moon
+32,かぜ,風,wind
+32,きた,北,north
+32,みなみ,南,south
+32,にし,西,west
+32,ひがし,東,east
+32,インジン,インジン,engine
+32,チーム,チーム,team
+32,こんや,今夜,this evening
+32,ゆうがた,夕方,late afternoon
+32,まえ,前,"a time in the past, before"
+32,おそく,遅く,late (time)
+32,こんなに,,like this
+32,そんなに,,like that (concerning a matter related to the listener)
+32,もしかしたら,,"possibly, perhaps"
+32,それはいけませんね。,,That's too bad.
+32,げんき,元気,vigor
+32,い,胃,stomach
+32,はたらきすぎ,働きすぎ,working too much
+32,ストレス,,stress
+32,むりをします,無理をします,working more than one's capacity
+32,ゆっくりします,,take one's time
+32,ほしうらない,星占い,horoscope
+32,こまります,困ります,"be in trouble, have a problem"
+32,たからくじ,宝くじ,lottery
+32,れんあい,恋愛,romantic love
+32,こいびと,恋人,"sweetheart, boyfriend, girlfriend"
+32,おかねもち,お金持ち,rich person
+33,にげます,逃げます,run away
+33,さわぎます,騒ぎます,make a noise
+33,あきらめます,諦めます,give up
+33,なげます,投げます,throw
+33,あげます,上げます,"raise, lift up"
+33,さげます,下げます,"lower, pull down"
+33,つたえます,伝えます,convey (a message)
+33,ちゅういします［くるまに～］注意します［車に～］be,,careful [of the cars]
+33,はずします［せきを～］,外します［席を～］,be away [from one's desk]
+33,せき,席,seat
+33,ファイト,,fight
+33,マーク,,mark
+33,ボール,,ball
+33,せんたくき,洗濯機,washing machine
+33,～き,～機,～machine
+33,きそく,規則,"regulation, rule"
+33,しようきんし,使用禁止,Do not use.
+33,たちいりきんし,立入禁止,Keep out.
+33,いりぐち,入口,entrance
+33,ひじょうぐち,非常口,emergency exit
+33,むりょう,無料,free of charge
+33,ほんじつきゅうぎょう,本日休業,closed today
+33,えいぎょうちゅう,営業中,open for business
+33,しようちゅう,使用中,in use
+33,～ちゅう,～中,～ing
+33,どういう～,,what kind of ～
+33,もう,,(not) any longer (used with negatives)
+33,あと～,,～left
+33,ちゅうしゃいはん,駐車違反,parking violation
+33,そりゃあ,,well
+33,～いない,～以内,within ~
+33,けいさつ,警察,police station
+33,でんぽう,電報,telegram
+33,ひとびと,人々,people
+33,きゅうよう,急用,urgent business
+33,うちます [でんぽう～],打ちます[電報を～],send [a telegram]
+33,でんぽうだい,電報代,telegram charge
+33,できるだけ,,as much as possible
+33,みじかく,短く,"shortly, briefly"
+33,また,,and
+33,たとえば,例えば,for example
+33,キトク,危篤,in a critical condition
+33,おもいびょうき,重い病気,serious illness
+33,あす,明日,tomorrow
+33,るす,留守,absence
+33,[お]いわい,[お]祝い,celebration
+33,なくなります,亡くなります,"pass away, die"
+33,かなしみ,悲しみ,"sorrow, sadness"
+33,りようします,利用します,use
+34,くみたてます,組み立てます,assemble
+34,おります,折ります,"bend, fold, break, snap"
+34,きがつきます［わすれもの,気がつきます［忘れ物,"notice, become aware of [things left"
+34,に～］,に～］,behind]
+34,みつかります［かぎが～］,,[a key] be found
+34,します［ネクタイを～］,,"put on, wear [a tie]"
+34,しつもんします,質問します,ask a question
+34,ふとい,太い,thick (of large diameter)
+34,ぼんおどり,盆踊り,Bon Festival dance
+34,スポーツクラブ,,sports club
+34,かぐ,家具,furniture
+34,キー,,key
+34,シートベルト,,seat belt
+34,せつめいしょ,説明書,"explanatory pamphlet, instruction book"
+34,ず,図,"figure, drawing"
+34,やじるし,矢印,arrow (sign)
+34,くろ,黒,black (noun)
+34,しろ,白,white (noun)
+34,あか,赤,red (noun)
+34,あお,青,blue (noun)
+34,こん,紺,"navy blue, dark blue (noun)"
+34,きいろ,黄色,yellow (noun)
+34,ちゃいろ,茶色,brown (noun)
+34,ソース,,"sauce, Worcestershire sauce"
+34,～か～,,~or~
+34,ゆうべ,夕べ,last night
+34,さっき,,a short while ago
+34,さどう,茶道,tea ceremony
+34,おちゃをたてます,お茶をたてます,make green tea
+34,のせます,載せます,"place on, load onto"
+34,これでいいでか。,,Is this allright?
+34,ざいりょう,材料,"material, ingredient"
+34,～ぶん,～分,portion for ～
+34,とりにく,鳥肉,chicken
+34,～グラム,,gram
+34,たまねぎ,玉葱,onion
+34,よんぶんのいち,４分の１,one fourth
+34,ちょうみりょう,調味用,"seasoning, flavoring"
+34,なべ,鍋,"pan, pot"
+34,ひ,火,"fire, heating"
+34,ひにかけます,火にかけます,put on the stove
+34,にえます,煮えます,"be cooked, be boiled"
+34,どんぶり,丼,ceramic bowl
+35,かわります［いろが～］,変わります［色が～］,[the color] change
+35,こまります,困ります,"be in trouble, have a problem"
+35,つけます［まるを～］,付けます［丸を～］,"draw [a circle], mark [with a circle]"
+35,ひろいます,拾います,pick up
+35,かかります［でんわが～］かかります［電話が～］,,call]
+35,らく［な］,楽［な］,"comfortable, easy"
+35,ただしい,正しい,"correct, right"
+35,めずらしい,珍しい,"rare, uncommon"
+35,かた,方,person (respectful equivalent of ひと)
+35,むこう,向こう,"over there, the other side"
+35,しま,島,island
+35,むら,村,village
+35,みなと,港,"port, harbor"
+35,きんじょ,近所,"neighborhood, vicinity"
+35,おくじょう,屋上,rooftop
+35,かいがい,海外,overseas
+35,やまのぼり,山登り,mountain climbing
+35,きかい,機会,"chance, opportunity"
+35,きょか,許可,permission
+35,まる,丸,circle
+35,そうさ,操作,operation
+35,ほうほう,方法,method
+35,せつび,設備,"equipment, facilities"
+35,カーテン,,curtain
+35,ひも,綬,string
+35,は,葉,leaf
+35,きょく,曲,a piece of music
+35,たのしみ,楽しみ,"pleasure, enjoyment, expectation"
+35,もっと,,more
+35,はじめに,初めに,first
+35,これでおわります。,これで終わります。,We'll finish now.
+35,それなら,,in that case
+35,りょこうしゃ,旅行社,travel agency
+35,くわしい,詳しい,detailed
+35,スキーじょう,スキー場,"ski resort, ski ground"
+35,しゅ,朱,red
+35,まじわります,交わります,keep company with
+35,なかよくします,仲よくします,be on good terms with
+36,とどきます［にもつが～］届きます［荷物が～］,,[parcels] be delivered
+36,でます［しあいに～］,出ます［試合に～］,participate [in the game]
+36,うちます［ワープロを～］,,type [on a word processor]
+36,ちょきんします,貯金します,save money
+36,ふとります,太ります,get fat
+36,やせます,,"get slim, lose weight"
+36,すぎます［７じを～］,過ぎます［７時を～］,pass [7 o'clock]
+36,かたい,硬い,"hard, tough, solid"
+36,やわらかい,軟らかい,"soft, tender"
+36,でんし～,電子～,electronic～
+36,こうじょう,工場,factory
+36,けんこう,健康,health
+36,けんどう,剣道,kendo (Japanese style fencing)
+36,まいしゅう,毎週,every week
+36,まいつき,毎月,every month
+36,まいとし（まいねん）,毎年,every year
+36,やっと,,finally
+36,かなり,,fairly
+36,ぜったいに,絶対に,absolutely (used with negatives)
+36,じょうずに,上手に,"well, skillfully"
+36,このごろ,,these days
+36,～ずつ,,～(some amount) per (some suit)
+36,そのほうが～,,That is more～
+36,おきゃくさま,お客様,"guest, customer"
+36,とくべつ［な］,特別［な］,special
+36,すいえい,水泳,swimming
+36,～とか、～とか,,"～, ～, and so on"
+36,タンゴ,,tango
+36,チャレンジします,,challenge
+36,きもち,気持ち,"feeling, enthusiasm"
+36,れきし,歴史,history
+36,ーせいき,ー世紀,-th century
+36,とおく,遠く,"far, remote place"
+36,きしゃ,汽車,locomotive
+36,きせん,汽船,steam boat
+36,おおぜいの～,大勢の～,many (people)
+36,はこびます,運びます,"carry, transport"
+36,とびます,飛びます,fly
+36,うちゅう,宇宙,"space, universe"
+36,ちきゅう,地球,earth
+37,ほめます,褒めます,praise
+37,しかります,叱ります,scold
+37,さそいます,誘います,"invite, ask someone to join"
+37,しょうたいします,招待します,invite
+37,たのみます,頼みます,"ask, request"
+37,ちゅういします,注意します,"warn, advise"
+37,とります,取ります,"rob, steal"
+37,ふみます,踏みます,step on (someone's foot)
+37,こわします,壊します,"break, destroy"
+37,よごします,汚します,make ～ dirty
+37,おこないます,行います,"hold, carry out, practice"
+37,ゆしゅつします,輸出します,export
+37,ゆにゅうします,輸入します,import
+37,はつめいします,発明します,invent
+37,はっけんします,発見します,discover
+37,せっけいします,設計します,"design, plan"
+37,こめ,米,rice
+37,むぎ,麦,"barley, wheat"
+37,せきゆ,石油,oil
+37,デート,,date
+37,けいかん,警官,policeman
+37,けんちくか,建築家,architect
+37,かがくしゃ,科学者,scientist
+37,まんが,漫画,comic
+37,せかいじゅう,世界中,all over the world
+37,～じゅう,～中,all over ～
+37,～に,よって,by ～
+37,よかったですね。,,That's lucky isn't it?
+37,うめたてます,埋め立てます,reclaim
+37,ぎじゅつ,技術,"technology, technique"
+37,とち,土地,land
+37,りようします,利用します,use
+37,アクセス,,access
+37,ーせいき,ー世紀,ーth centeury
+37,ごうか「な」,豪華な,gorgeous
+37,ちょうこく,彫刻,"engraving, carving, sculpture"
+37,ねむります,眠ります,sleep
+37,ほります,彫ります,"engrave, carve"
+37,なかま,仲間,"colleague, friend"
+37,いっしょうけんめい,一生懸命,with all one's effort
+37,ねずみ,鼠,mouse
+37,いっぴきもいません。,一匹もいません。,There is not a single (mouse)
+38,そだてます,育てます,"breed, bring up"
+38,はこびます,運びます,"carry, transport"
+38,たいいんします,退院します,leave hospital
+38,いれます［でんげんを～］入れます［電源を～］turn,,on [the power switch]
+38,きります［でんげんを～］切ます［電源を～］,,turn off [the power switch]
+38,きもちがいい,気持ちがいい,"pleasant, agreeable"
+38,きもちがわるい,気持ちが悪い,"unpleasant, disgusting"
+38,おおきな～,大きな～,large ～
+38,ちいさな～,小さな～,small ～
+38,あかちゃん,赤ちゃん,baby
+38,しょうがっこう,小学校,elementary school
+38,ちゅうがっこう,中学校,junior high school
+38,えきまえ,駅前,the area in front of the station
+38,うそ,嘘,"lie, fib"
+38,しょるい,書類,"document, papers"
+38,でんげん,電源,power switch
+38,～せい,～製,made in ～
+38,かいらん,回覧,"circular, sending round"
+38,けんきゅうしつ,研究室,"study room, professor's office, laboratory"
+38,きちんと,,"neatly, tidily、accurately"
+38,せいりします,整理します,"put (things) in order, tidy up"
+38,～というほん,～という本,"the book titled ～, the book named ～"
+38,ーさつ,ー冊,"(counter for books, etc.)"
+38,はんこ,判子,seal stamp
+38,おします［はんこを～］,,affix [a seal]
+38,ふたごう,双子,twins
+38,しまい,姉妹,sisters
+38,にています,似ています,"resemble, be like"
+38,せいかく,性格,character
+38,せわをします,世話をします,take care
+38,じかんがたちます,時間がたちます,time pass by
+38,だいすき「な」,大好き「な」,like very much
+38,ーてん,ー点,ーpoints
+38,クラス,,class
+38,けんかします,喧嘩します,"quarrel, fight"
+38,ふしぎ「な」,不思議「な」,"mysterious, strange"
+39,しにます,死にます,die
+39,びっくりします,,be surprised
+39,がっかりします,,be disappointed
+39,あんしんします,安心します,be relieved
+39,そうたいします,早退します,leave (work or school) earlier than usual
+39,りこんします,離婚します,divorce
+39,ふくざつ［な］,複雑［な］,"complicated, complex"
+39,じゃま［な］,邪魔［な］,"obstructive, in the way"
+39,きたない,汚い,dirty
+39,かなしい,悲しい,sad
+39,はずかしい,恥ずかしい,"embarrased, ashamed"
+39,じしん,地震,earthquake
+39,たいふう,台風,typhoon
+39,かじ,火事,fire
+39,じこ,事故,accident
+39,フロント,,"front desk, reception desk"
+39,ーごうしつ,ー号室,room number -
+39,あせ,汗,perspiration (～をかきます：perspire)
+39,タオル,,towel
+39,せっけん,,soap
+39,おおぜい,大勢,a great number of people
+39,おつかれさまでし,お疲れさまでしThank,you for your hard work. (used to express appreciation
+39,た。,た。,for a colleague's or subordinate's work)
+39,うかがいます。,伺います。,I'm coming. (humble way of saying
+39,とちゅうで,途中で,"on the way, in the midst of"
+39,トラック,,"truck, lorry"
+39,ぶつかります,,"bump, collide"
+39,ならびます,並びます,"stand in a queue, line up"
+39,おとな,大人,adult
+39,ようふく,洋服,Western Clothes
+39,あいます,合います,"fit, suit"
+39,いまでは,今では,now
+39,せいじんしき,成人式,coming-of-age celebration
+40,かぞえます,数えます,count
+40,はかります,測ります、量ります,"measure, weigh"
+40,たしかめます,確かめます,"confirm, make shure"
+40,あいます［サイズが～］,合います［サイズが～］[the,size] fit
+40,とうちゃくします,到着します,arrive
+40,よいます,酔います,get drunk
+40,きけん［な］,危険［な］,dangerous
+40,ひつよう［な］,必要［な］,necessary
+40,うちゅう,宇宙,"space, universe"
+40,ちきゅう,地球,earth
+40,しんねんかい,新年会,New Year's Party
+40,たいかい,大会,"mass meeting, convention"
+40,マラソン,,marathon
+40,コンテスト,,contest
+40,おもて,表,"face, front"
+40,うら,裏,back (side)
+40,もうしこみ,申し込み,application
+40,ほんとう,本当,"truth, fact"
+40,まちがい,間違い,mistake
+40,きず,傷,"defect, wound, scratch"
+40,ズボン,,Trousers (French: Jupon)
+40,ながさ,長さ,lenght
+40,おもさ,重さ,weight
+40,たかさ,高さ,height
+40,ーごう,ー号,"train number, typhoon number, etc."
+40,ーこ,ー個,(counter for small objects)
+40,ーほん（ーぽん、ーぼん）ー本,,(counter for long objects)
+40,ーキロ,,"ーkilograms, kilometers"
+40,ーグラム,,ーgrams
+40,ーセンチ,,ーcentimeters
+40,ーミリ,,ーmillimeters
+40,～いじょう,～以上,"not less than 〜, over 〜"
+40,～いか,～以下,"not more than 〜, under 〜"
+40,どうでしょうか,,How is 〜? (polite way of saying どうですか)
+40,クラス,,class
+40,テスト,,"test, examination"
+40,ところで,所で,by the way
+40,じけん,事件,"incident, case"
+40,オートバイ,,motorcycle
+40,ばくだん,爆弾,bomb
+40,つみます,積む,"load, pile up"
+40,うんてんしゅ,運転手,driver
+40,が,,but
+40,きゅうに,急に,suddendly
+40,うごかします,動かします,"start, operate, move"
+40,いっしょうけんめい,一生懸命,with all one's effort
+40,はんにんん,犯人,"suspect, criminal"
+40,てにいれます,手に入れる,"obtain, get"
+40,うわさします,噂します,gossip
+41,いただきます,,receive (humble equivalent of もらいます)
+41,くださいます,,くれます)
+41,やります,,give (to a younger person or subordinate)
+41,よびます,呼びます,invite
+41,とりかえます,取り替えます,exchange
+41,しんせつにします,親切にします,be kind to
+41,かわいい,可愛い,"lovely, cute"
+41,おいわい,お祝い,"celebration, gift (～をします：celebrate)"
+41,おとしだま,お年玉,money given as New Year's gift
+41,きょうみ,興味,interest
+41,じょうほう,情報,information
+41,ぶんぽう,文法,grammar
+41,はつおん,発音,pronunciation
+41,さる,猿,"ape, monkey"
+41,おもちゃ,,toy
+41,えほん,絵本,picture book
+41,えはがき,絵はがき,picture postcard
+41,ドライバー,,screwdriver
+41,ハンカチ,,handkerchief
+41,くつした,靴下,"socks, stockings"
+41,てぶくろ,手袋,gloves
+41,ゆびわ,指輪,ring
+41,そふ,祖父,(my) grandfather
+41,そぼ,祖母,(my) grandmother
+41,まご,孫,grandchild
+41,おじ,,(my) uncle
+41,おじさん,,(someone else's) uncle
+41,おば,,(my) aunt
+41,おばさん,,(someone else's) aunt
+41,おととし,,the year before the last
+41,はあ,,"yes, I see"
+41,もうしわけありません申し訳ありませんI'm,,sorry./Excuse me.
+41,あずかります,預かります,"keep, receive (a thing) in trust"
+41,せんじつ,先日,the other day
+41,むかしばなし,昔話,"old tale, folklore"
+41,ある～,,"a certain 〜, one 〜"
+41,おとこ,男,man
+41,こどもたち,子どもたち,children
+41,いじめます,苛めます,"bully, abuse, ill-treat"
+41,かめ,亀,turtle
+41,たすけます,助けます,"save, help"
+41,おひめさま,お姫様,princess
+41,くらします,暮らします,"live, lead a life"
+41,りく,陸,"land, shore"
+41,すると,,"and, then"
+41,けむり,煙,smoke
+41,まっしろ［な］,真っ白［な］,pure white
+41,なかみ,中身,content
+42,つつみます,包みます,wrap
+42,まぜます,混ぜます,mix
+42,けいさんします,,calculate
+42,あつい,厚い,thick
+42,うすい,薄い,thin
+42,べんごし,弁護士,"lawyer, attorney"
+42,ふたり,二人,couple
+42,れきし,歴史,history
+42,ぶんか,文化,culture
+42,しゃかい,社会,society
+42,ほうりつ,法律,law
+42,せんそう,戦争,war
+42,へいわ,平和,peace
+42,もくてき,目的,purpose
+42,あんぜん,安全,safety
+42,ろんぶん,論文,"thesis, academic paper"
+42,かんけい,関係,"ralation, connection"
+42,ミキサー,,mixer
+42,せんぬき,栓抜き,cap opener
+42,かんきり,缶切り,can opener
+42,かんづめ,缶詰,"canned food, tinned food"
+42,ふろしき,風呂敷,wrapping cloth used to carry things
+42,そろばん,算盤,abacus
+42,たいおんけい,体温計,(clinical) thermometer
+42,ざいりょう,材料,"material, ingredients"
+42,いし,石,stone
+42,データ,,data
+42,ファイル,,file
+42,ある～,"certain〜,",a one〜
+42,いっしょうけんめい,一生懸命,with all one's effort
+42,なぜ,,why
+42,ローン,,loan
+42,セット,,set
+42,あと,,"the amount left unused, the rest"
+42,なべ,,"pan, pot"
+42,どんぶり,丼,ceramic bowl
+42,しょくひん,食品,food
+42,ちょうさ,調査,"investigation, survey"
+42,カップ,,cup
+42,～のかわりに,,"in place of〜, instead of〜"
+42,いまでは,今では,"now, nowadays"
+43,きれます,［ひもが～］,"[a string] break, snap"
+43,とれます,［ボタンが～］取れます,[a button] came off
+43,おちます ［にもつが～］落ちる,［荷物が～］[bagage],fall down
+43,じょうぶ［な］,丈夫［な］,"strong, healty"
+43,へん［な］,変［な］,"strange, peculiar"
+43,しあわせ［な］,幸せ［な］,happy
+43,うまい,,"tasty, good at"
+43,まずい,不味い,not tasty
+43,ガソリン,,"petrol, gasoline"
+43,ひ,火,fire
+43,だんぼう,暖房,heating
+43,れいぼう,冷房,air-conditioning
+43,わあ,,Oh!/Wow!
+43,かいいん,会員,member
+43,てきとう［な］,適当［な］,"suitable, proper"
+43,ねんれい,年齢,age
+43,しゅうにゅう,収入,income
+43,ぴったり,,"exactly, just right"
+43,～といいます,,(one's name) is 〜
+43,ばら,,rose
+43,ドライブ,,driving
+44,なきます,泣きます,cry
+44,わらいます,笑います,"laugh, smile"
+44,かわきます,乾きます,dry
+44,ぬれます,濡れます,get wet
+44,すべります,滑べります,slip
+44,おきます［じこが～］,起きます［事故が～］,[an accident] happen
+44,ちょうせつします,調節します,adjust
+44,あんぜん［な］,安全［な］,safe
+44,ていねい［な］,丁寧［な］,"polite, courteous, careful"
+44,こい,濃い,"strong (taste), dark (color)"
+44,うすい,薄い,"weak (taste), light (color)"
+44,くうき,空気,air
+44,なみだ,涙,tear
+44,わしょく,和食,Japanise dish
+44,ようしょく,洋食,Western dish
+44,おかず,,side dish
+44,りょう,量,quantity
+44,ーばい,ー倍,ーtimes
+44,はんぶん,半分,half
+44,ツイン,,twin-bedded room
+44,たんす,箪笥,"chest of drawers, bureau"
+44,せんたくもの,洗濯物,washing laundry
+44,りゆう,理由,reason
+44,どうなさいますか。,,What can I do for you?
+44,カット,,haircut
+44,シャンプー,,shampoo
+44,ショート,,short
+44,これでよろしいでしょうか。,これで宜しいでしょうか。,Would this be all right?
+44,いやがります,嫌がります,dislike
+44,じゅんじょ,順序,"order, sequence"
+44,ひょうげん,表現,expression
+44,たとえば,例えば,for example
+44,わかれます,別れます,"part, separate"
+44,えんぎがわるい,縁起が悪い,"unlucky, ill-omened"
+45,あやまります,謝ります,apologize
+45,あいます［じこに～］,あいます［事故に～］,encounter [an accident]
+45,しんじます,信じます,"believe, trust"
+45,よういします,用意します,prepare
+45,キャンセルします,,cancel
+45,うまくいきます,,go well
+45,ほしょうしょ,保証書,guarantee
+45,りょうしゅうしょ,領収書,receipt
+45,おくりもの,贈り物,"gift, present (～をします： give a present)"
+45,まちがいでんわ,まちがい電話,wrong (telephone) number
+45,かかり,係,person in charge
+45,ちゅうし,中止,"calling off, cancelling, suspension"
+45,てん,点,"point, score"
+45,レバー,,lever
+45,ちゃんと,,"regularly, properly"
+45,きゅうに,急に,suddenly
+45,たのしみにしています,楽しみにしています,"be looking forward to, be expecting"
+45,いじょうです。,以上です。,That's all.
+45,コース,,course
+45,スタート,,start
+45,ーい,ー位,ーth ranking
+45,ゆうしょうします,優勝します,win the championship
+45,なやみ,悩み,"trouble, worry"
+45,めざまし［とけい］,目覚まし［時計］,alarm clock
+45,ねむります,眠ります,sleep
+45,めがさめます,目が覚めます,wake up
+45,だいがくせい,大学生,university student
+45,なります,鳴ります,ring
+45,セットします,,set
+45,それでも,,"nevertheless, for all that"
+46,やきます,焼きます,"bake, grill, roast"
+46,わたします,渡します,hand over
+46,かえってきます,帰って来きます,come back
+46,でます［バスが～］,出ます［バスが～］,"[a bus] leave, depart"
+46,たくはいびん,宅配便,delivery service
+46,げんいん,原因,cause
+46,ちゅうしゃ,注射,injection
+46,しょくよく,食欲,appetite
+46,パンフレット,,pamphlet
+46,ステレオ,,stereo
+46,こちら,,"my plyce, my side"
+46,～のところ,～の所,the place around〜
+46,ちょうど,,"just, exactly"
+46,いまいいでしょうか,今いいでしょうか,May I bother you
+46,ガスレンジ,,"gas range, gas cooker"
+46,ぐあい,具合,condition
+46,どちらさまでしょうか。,どちら様でしょうか。Who,"is this, please?"
+46,むかいます,向かいます,head for
+46,おまたせしました。,お待たせしました。,Sorry to have kept you waiting.
+46,ちしき,知識,knowledge
+46,ほうこ,宝庫,treasury
+46,システム,,system
+46,たとえば,例えば,for example
+46,キーワード,,key word
+46,にゅうりょくします,入力します,input
+46,びょう,秒,second
+46,でます［ほんが～］,出ます［本が～］,[a book] be published
+47,ながいきします,長生きします,live long
+47,ひどい,,"terrible, severe, cruel"
+47,こわい,怖い,"frightening, horrible"
+47,てんきよほう,天気予報,weather forecast
+47,はっぴょう,発表,"announcement, presentation"
+47,じっけん,実験,experiment
+47,じんこう,人口,population
+47,かがく,科学,science
+47,いがく,医学,"medicine, medical science"
+47,ぶんがく,文学,literature
+47,パトカー,,patrol car
+47,きゅうきゅうしゃ,救急車,ambulance
+47,さんせい,賛成,"approval, agreement"
+47,はんたい,反対,"objection, opposition"
+47,だんせい,男性,male. man
+47,どうも,,it appears that (used when making a tentative judgement)
+47,こいびと,恋人,"sweatheart, boyfriend, girlfriend"
+47,こんやくします,婚約する,get engaged
+47,あいて,相手,the other person
+47,しりあいます,知り合います,get acquainted
+47,へいきんじゅみょう,平均寿命,average life span
+47,はかせ,博士,doctor
+47,のう,脳,brain
+47,ホルモン,,hormone
+47,けしょうひん,化粧品,cosmetics
+47,けしょう,化粧,makeup (～をします：put on makeup)
+48,おろします,,"put down, lower"
+48,とどけます,届けます,"deliver, report"
+48,せわをします,世話をします,take care of 〜
+48,いや［な］,嫌［な］,"unwilling, reluctant"
+48,きびしい,厳しい,"strict, hard"
+48,スケシュール,,schedule
+48,せいと,生徒,pupil
+48,もの,者,person (referring to one's relatives or subordinates)
+48,にゅうかん,入管,Immigration Bureau
+48,さいにゅうこくビザ再入国ビザ,,re-entry visa
+48,じゆうに,自由に,freely
+48,～かん,～間,for 〜 (reffering to duration)
+48,いいことですね。,,That's good.
+48,ひさしぶり,久しぶり,after a long time
+48,えいぎょう,営業,busines sales
+48,かまいません。,,It's all right./It doesn't matter.
+48,たのしみます,楽しみます,enjoy oneself
+48,もともと,,originally
+48,ーせいき,ー世紀,ーth century
+48,かわりをします,代わりをします,"be a substitute, be a replacement"
+48,スピード,,speed
+48,きょうそうします,競走します,race
+48,サーカス,,circus
+48,げい,芸,"performance, trick"
+48,すがた,姿,"figure, appearance"
+48,こころ,心,"heart, mind"
+48,とらえます,捕らえる,catch
+48,～にとって,,〜
+49,やすみます,休みます,"go to bed, sleep"
+49,かけます［いすに～］,掛けます,sit on [a chair]
+49,すごします,過ごします,"spend (time), pass (time)"
+49,おっしゃいます,,say (respectful equivalent of いいます)
+49,なさいます,,do (respectful equivalent of します)
+49,ごらんになります,ご覧になります,"see, look at (respectful equivalent of みます)"
+49,ごぞんじです,ご存じです,know (respectful equivalent of しっています)
+49,あいさつ,挨拶,"greeting, adress (～をします: greet, give an"
+49,りょかん,旅館,Japanese-style hotel or inn
+49,かいじょう,会場,"meeting place, hall"
+49,バスてい,バス停,bus stop
+49,ぼうえき,貿易,trade
+49,～さま,～様,(respectful equivalent of ～さん)
+49,かえりに,帰りに,on the way back
+49,たまに,,once in a while
+49,ちっとも,,not at all (used with negatives)
+49,えんりょなく,遠慮なく,"without reserve, without hesitation"
+49,ーねんーくみ,ー年ー組,class ーof -th grade
+49,では,,"well, then (polite equivalent of じゃ)"
+49,だします［ねつを～］,出します［熱を～］,run [a fever]
+49,こうし,講師,lecturer
+49,おおくの～,多くの～,"many 〜, much〜"
+49,さくひん,作品,"work (of art, etc.)"
+49,せかいてきに,世界的に,world-wide
+49,さっか,作家,"novelist, writer"
+49,～でいらっしゃいます,,be (respectful equivalent of です)
+49,しょうがい,障害,"handicap, defect"
+49,おもちです,お持ちです,have (respectdful way of saying
+49,さっきょく,作曲,composition (music)
+49,それでは,,"well, so (indicating an end or beginning)"
+50,おります,,be (humble equivalent of います)
+50,もうします,申します,say (humble equivalent of いいます)
+50,いたします,,do (humble equivalent of します)
+50,はいけんします,拝見します,see (humble equivalent of みます)
+50,ぞんじます,存じます,know (humble equivalent of
+50,おめにかかります,お目にかかります,meet (humble equivalent of あいます)
+50,ございます,,be (polite equivalent of あります)
+50,～でございます,,be (polite equivalent of ～です)
+50,わたくし,私,I (humble equivalent of わたし)
+50,ガイド,ガイド,guide
+50,おたく,お宅,(someone else's) house
+50,こうがい,郊外,suburbs
+50,さらいしゅう,さ来週,the week after next
+50,さらいげつ,さ来月,the month after next
+50,さらいねん,さ来年,the year after next
+50,はんとし,半年,half a year
+50,さいしょに,最初に,first of all
+50,さいごに,最後に,lastly
+50,ただいま,ただ今,now
+50,ほうそうします,放送します,broadcast
+50,しょうきん,賞金,prize money
+50,きりん,麒麟,giraffe
+50,ぞう,象,elephant
+50,ころ,頃,"times, days"
+50,かないます［ゆめが～］かないます［夢が～］[dream],,be realized
+50,こころから,心から,from my heart
+50,かんしゃします,感謝します,"be grateful, be thankful"
+50,はいけい,拝啓,Dear 〜
+50,うつくしい,美しい,beautiful
+50,おげんきでいらっしゃお元気でいらっしゃ,,How are you doing? (respectful equivalent of おげ
+50,いますか。,いますか。,んきですか)
+50,めいわくをかけます,迷惑をかけます,"trouble, annoy, inconveniece"
+50,いかします,生かす,make good use of
+50,けいぐ,敬具,Sincerely yours
