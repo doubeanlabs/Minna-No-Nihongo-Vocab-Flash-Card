@@ -13,6 +13,7 @@ const els = {
   stateInput: document.querySelector("#stateInput"),
   exportButton: document.querySelector("#exportButton"),
   resetProgressButton: document.querySelector("#resetProgressButton"),
+  resetVocabularyButton: document.querySelector("#resetVocabularyButton"),
   sizeSlider: document.querySelector("#sizeSlider"),
   filterButtons: [...document.querySelectorAll("[data-filter]")],
   messageArea: document.querySelector("#messageArea"),
@@ -87,6 +88,7 @@ function bindEvents() {
   els.stateInput.addEventListener("change", handleStateImport);
   els.exportButton.addEventListener("click", exportState);
   els.resetProgressButton.addEventListener("click", resetProgress);
+  els.resetVocabularyButton.addEventListener("click", resetVocabulary);
   els.confirmImportButton.addEventListener("click", confirmPendingImport);
   els.cancelImportButton.addEventListener("click", closeImportDialog);
   els.startQuizButton.addEventListener("click", startQuiz);
@@ -506,6 +508,29 @@ function resetProgress() {
   saveState();
   render();
   showMessage("Progress reset. Vocabulary is still here.");
+}
+
+async function resetVocabulary() {
+  const ok = window.confirm("Reset vocabulary on this device to the built-in GitHub list? This removes words added through Upload CSV, but keeps progress for matching built-in words.");
+  if (!ok) return;
+
+  try {
+    const defaultWords = await loadDefaultVocabulary();
+    const defaultKeys = new Set(defaultWords.map((word) => wordKey(word)));
+    state.words = defaultWords;
+    state.progress = Object.fromEntries(
+      Object.entries(state.progress).filter(([key]) => defaultKeys.has(key)),
+    );
+    if (!state.settings.selectedChapter || !getChapters().includes(state.settings.selectedChapter)) {
+      state.settings.selectedChapter = getChapters()[0] || "";
+    }
+    saveState();
+    render();
+    showMessage("Vocabulary reset to the built-in GitHub list.");
+  } catch (error) {
+    showMessage("I could not reload the built-in vocabulary. Please refresh the page and try again.");
+    console.error(error);
+  }
 }
 
 function downloadFile(filename, content, type) {
